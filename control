@@ -1,0 +1,11 @@
+Package: com.rpetrich.snoverlay
+Name: Snoverlay
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Happy Holidays, everyone!
+Maintainer: Ryan Petrich <rpetrich+snowverlay@gmail.com>
+Author: Ryan Petrich <rpetrich+snowverlay@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Section: Tweaks
+Icon: file:///System/Library/PreferenceBundles/Wallpaper.bundle/icon.png
+dev: rpetrich

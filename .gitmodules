@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = git://github.com/rpetrich/theos.git
+[submodule "VENSnowOverlayView"]
+	path = VENSnowOverlayView
+	url = git@github.com:chrismaddern/VENSnowOverlayView.git
